@@ -23,10 +23,10 @@ def Login():
             #"formhash":formhash,
             #"loginfield":"username",
             #"loginsubmit":"",
-            "password":'DUANxiaochen0',
+            "password":'password',
             "questionid":"0",
             "referer":"http://rs.xidian.edu.cn/",
-            "username":'虚心若愚',
+            "username":'username',
             }
     jar = cookielib.CookieJar()
     handler = urllib2.HTTPCookieProcessor(jar)
